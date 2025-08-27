@@ -18,8 +18,6 @@ I work on projects in the field of ML and artificial intelligence.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Alexloroo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Alexloroo&icon=5&color=6)](https://visitcount.itsvg.in)
