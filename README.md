@@ -3,7 +3,7 @@ I work on projects in the field of ML and artificial intelligence.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexloroo) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=ffdd54)](https://linkedin.com/in/alexloroo) 
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=linkedin&logoColor=white)](https://t.me/Alexloroo)
 
 # 💻 Tech Stack:
