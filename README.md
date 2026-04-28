@@ -8,7 +8,6 @@ I am working on projects in the field of ML and artificial intelligence.
 # 💻 Tech Stack
 
 ### Languages and Tools
-<h3 align="left">Languages and Tools</h3>
 
 <table>
   <tr>
