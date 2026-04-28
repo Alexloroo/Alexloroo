@@ -19,14 +19,13 @@ I am working on projects in the field of ML and artificial intelligence.
     <td><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/></td>
     <td><img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/></td>
     <td><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/></td>
-    <td><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40"/></td>
   </tr>
   <tr>
+    <td><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40"/></td>
     <td><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40"/></td>
     <td><img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40" height="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" height="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/></td>
